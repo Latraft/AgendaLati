@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionContactos", "GestionContactos.csproj", "{0D92309C-9203-44E6-AC40-FF45471BCE14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica2", "..\Practica2\Practica2.csproj", "{A8A91463-B3FB-4B59-861F-0FFC645C224A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D92309C-9203-44E6-AC40-FF45471BCE14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D92309C-9203-44E6-AC40-FF45471BCE14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D92309C-9203-44E6-AC40-FF45471BCE14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D92309C-9203-44E6-AC40-FF45471BCE14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8A91463-B3FB-4B59-861F-0FFC645C224A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8A91463-B3FB-4B59-861F-0FFC645C224A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8A91463-B3FB-4B59-861F-0FFC645C224A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8A91463-B3FB-4B59-861F-0FFC645C224A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6C884E0-6B1F-493D-939D-6FBE8C318F3E}
+	EndGlobalSection
+EndGlobal
