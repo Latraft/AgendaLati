@@ -1,0 +1,53 @@
+C:\Users\arman\source\repos\AccesoBaseDatos1\AccesoBaseDatos1\bin\Debug\AccesoBaseDatos1.exe.config
+C:\Users\arman\source\repos\AccesoBaseDatos1\AccesoBaseDatos1\bin\Debug\AccesoBaseDatos1.exe
+C:\Users\arman\source\repos\AccesoBaseDatos1\AccesoBaseDatos1\bin\Debug\AccesoBaseDatos1.pdb
+C:\Users\arman\source\repos\AccesoBaseDatos1\AccesoBaseDatos1\obj\Debug\AccesoBaseDatos1.csproj.AssemblyReference.cache
+C:\Users\arman\source\repos\AccesoBaseDatos1\AccesoBaseDatos1\obj\Debug\AccesoBaseDatos1.Form1.resources
+C:\Users\arman\source\repos\AccesoBaseDatos1\AccesoBaseDatos1\obj\Debug\AccesoBaseDatos1.Properties.Resources.resources
+C:\Users\arman\source\repos\AccesoBaseDatos1\AccesoBaseDatos1\obj\Debug\AccesoBaseDatos1.csproj.GenerateResource.cache
+C:\Users\arman\source\repos\AccesoBaseDatos1\AccesoBaseDatos1\obj\Debug\AccesoBaseDatos1.csproj.CoreCompileInputs.cache
+C:\Users\arman\source\repos\AccesoBaseDatos1\AccesoBaseDatos1\obj\Debug\AccesoBaseDatos1.exe
+C:\Users\arman\source\repos\AccesoBaseDatos1\AccesoBaseDatos1\obj\Debug\AccesoBaseDatos1.pdb
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\AccesoBaseDatos1.exe.config
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\AccesoBaseDatos1.exe
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\AccesoBaseDatos1.pdb
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\obj\Debug\AccesoBaseDatos1.csproj.AssemblyReference.cache
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\obj\Debug\AccesoBaseDatos1.Form1.resources
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\obj\Debug\AccesoBaseDatos1.Properties.Resources.resources
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\obj\Debug\AccesoBaseDatos1.csproj.GenerateResource.cache
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\obj\Debug\AccesoBaseDatos1.csproj.CoreCompileInputs.cache
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\obj\Debug\AccesoBaseDatos1.exe
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\obj\Debug\AccesoBaseDatos1.pdb
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\Google.Protobuf.dll
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\MySql.Data.dll
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\System.Buffers.dll
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\System.Memory.dll
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\ZstdSharp.dll
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\Google.Protobuf.pdb
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\Google.Protobuf.xml
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\MySql.Data.xml
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\System.Buffers.xml
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\System.Memory.xml
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lati Lati\Desktop\AccesoBaseDatos1\obj\Debug\AccesoBa.3021FBBC.Up2Date
