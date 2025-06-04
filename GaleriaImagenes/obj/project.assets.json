@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lati Lati\\source\\repos\\GaleriaImagenes\\GaleriaImagenes.csproj",
+      "projectUniqueName": "C:\\Users\\Lati Lati\\Documents\\GitHub\\AgendaLati\\GaleriaImagenes\\GaleriaImagenes.csproj",
       "projectName": "GaleriaImagenes",
-      "projectPath": "C:\\Users\\Lati Lati\\source\\repos\\GaleriaImagenes\\GaleriaImagenes.csproj",
+      "projectPath": "C:\\Users\\Lati Lati\\Documents\\GitHub\\AgendaLati\\GaleriaImagenes\\GaleriaImagenes.csproj",
       "packagesPath": "C:\\Users\\Lati Lati\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lati Lati\\source\\repos\\GaleriaImagenes\\obj\\",
+      "outputPath": "C:\\Users\\Lati Lati\\Documents\\GitHub\\AgendaLati\\GaleriaImagenes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

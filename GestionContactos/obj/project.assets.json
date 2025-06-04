@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lati Lati\\source\\repos\\GestionContactos\\GestionContactos.csproj",
+      "projectUniqueName": "C:\\Users\\Lati Lati\\Documents\\GitHub\\AgendaLati\\GestionContactos\\GestionContactos.csproj",
       "projectName": "GestionContactos",
-      "projectPath": "C:\\Users\\Lati Lati\\source\\repos\\GestionContactos\\GestionContactos.csproj",
+      "projectPath": "C:\\Users\\Lati Lati\\Documents\\GitHub\\AgendaLati\\GestionContactos\\GestionContactos.csproj",
       "packagesPath": "C:\\Users\\Lati Lati\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lati Lati\\source\\repos\\GestionContactos\\obj\\",
+      "outputPath": "C:\\Users\\Lati Lati\\Documents\\GitHub\\AgendaLati\\GestionContactos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
